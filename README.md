@@ -17,8 +17,13 @@ Passionate fullstack developer with a deep fascination for machine learning and 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=💻+Crafting+Digital+Experiences;🤖+Training+ML+Models;Making+Scalable+Websites;🚀+Deploying+to+the+Cloud" alt="Skills Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=💻+Crafting+Digital+Experiences;🤖+Training+Neural+Networks;🚀+Deploying+to+the+Cloud;☕+Powered+by+Coffee+%26+Code" alt="Skills Typing" />
 </div>
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaynegi1&label=Profile%20views&color=0e75b6&style=flat" alt="abhaynegi1" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaynegi1" alt="abhaynegi1" /></a> </p>
 
 ---
 
