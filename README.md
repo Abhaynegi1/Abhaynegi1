@@ -23,7 +23,11 @@ Passionate fullstack developer with a deep fascination for machine learning and 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=React.js+•+Tailwind+CSS+•+HTML5+•+CSS3+•+Bootstrap+•+Figma+•+GSAP;MongoDB+•+PostgreSQL+•+Firebase+•+SQL+•+Git+•+GitHub+•+Postman;AWS+•+Vercel+•+Netlify+•+Render+•+REST+APIs+•+JWT+•+NextAuth+•+OAuth;TensorFlow.js+•+Handpose+•+NumPy+•+Pandas+•+scikit-learn+•+OpenCV" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap,figma,mongodb,postgres,firebase,mysql,git,github,postman,aws,vercel,netlify,nodejs,js,py,tensorflow,opencv,numpy&theme=dark" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&pause=3000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+%7C+Backend+%7C+Cloud+%7C+Machine+Learning;Building+Tomorrow's+Digital+Experiences" alt="Tech Categories" />
 </div>
 
 ---
