@@ -25,11 +25,14 @@ Passionate fullstack developer with a deep fascination for machine learning and 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaynegi1&label=Profile%20views&color=0e75b6&style=flat" alt="abhaynegi1" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaynegi1" alt="abhaynegi1" /></a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaynegi1&show_icons=true&locale=en&layout=compact" alt="abhaynegi1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaynegi1&show_icons=true&locale=en" alt="abhaynegi1" /></p>
+
 ---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>
@@ -42,7 +45,7 @@ Passionate fullstack developer with a deep fascination for machine learning and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" title="Vercel" alt="Vercel" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" title="Netlify" alt="Netlify" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>
@@ -67,12 +70,6 @@ Passionate fullstack developer with a deep fascination for machine learning and 
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/negi.abhay_)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:abhaynegi.dev@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhaysinghnegi&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
