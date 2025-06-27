@@ -14,6 +14,14 @@ Passionate fullstack developer with a deep fascination for machine learning and 
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300"/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=💻+Crafting+Digital+Experiences;🤖+Training+Neural+Networks;🚀+Deploying+to+the+Cloud;☕+Powered+by+Coffee+%26+Code" alt="Skills Typing" />
+</div>
+
+---
+
 ## 🚀 Tech Arsenal
 
 ### Frontend & UI
@@ -68,10 +76,18 @@ libraries = ["TensorFlow.js", "Handpose", "NumPy", "Pandas", "scikit-learn", "Op
 
 ## 🎯 Current Focus
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200"/>
+</div>
+
 - 🔥 Building scalable fullstack applications
 - 🤖 Exploring AI/ML integration in web development
 - 🌱 Learning advanced cloud architectures
 - 💡 Contributing to open-source projects
+
+<div align="center">
+  <img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="350" height="200"/>
+</div>
 
 ---
 
