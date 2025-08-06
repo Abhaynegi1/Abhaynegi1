@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-Passionate fullstack developer with a deep fascination for machine learning and modern web technologies. I thrive on transforming complex problems into elegant, user-friendly solutions. When I'm not coding, you'll find me exploring the latest in AI/ML or contributing to open-source projects that make a difference.
+Born in the mountains of Uttarakhand, now coding in the chaos of Gurugram—I’m a full-stack developer who loves turning coffee into code. From AI apps to MERN stack madness, I’m always building something (sometimes it even works). When I’m not debugging life, you’ll find me chasing tech trends or mountain views.
 
 > *"Turning coffee into code, one algorithm at a time"* ☕
 
