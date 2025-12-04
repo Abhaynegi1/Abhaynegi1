@@ -25,6 +25,10 @@ const abhay = {
 };
 ```
 
+<div align="center">
+<img src="https://media1.tenor.com/m/aXVFqv8KInAAAAAC/anime-frieren.gif" width="400"/>
+</div>
+
 ---
 
 ## 🔥 TECH ARSENAL
@@ -58,15 +62,8 @@ const abhay = {
 
 </div>
 
----
-
-## 📊 GITHUB STATS
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhaynegi1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&icon_color=FF6E96&text_color=FFF" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaynegi1&theme=radical&hide_border=true&background=0D1117&stroke=FF6E96&ring=FF6E96&fire=FFB86C&currStreakLabel=FFF" width="49%" />
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </div>
 
 ---
