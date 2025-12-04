@@ -12,6 +12,10 @@
 
 </div>
 
+<div align="center">
+<img src="https://media1.tenor.com/m/aXVFqv8KInAAAAAC/anime-frieren.gif" width="400"/>
+</div>
+
 ---
 
 ## 🎮 WHO AM I?
@@ -25,9 +29,6 @@ const abhay = {
 };
 ```
 
-<div align="center">
-<img src="https://media1.tenor.com/m/aXVFqv8KInAAAAAC/anime-frieren.gif" width="400"/>
-</div>
 
 ---
 
