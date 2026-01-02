@@ -1,9 +1,7 @@
 <div align="center">
 
 #  ABHAY SINGH NEGI
-
 <img src="https://media1.tenor.com/m/KHASp5mlaWsAAAAd/anime-frieren.gif" width="450"/>
-
 ### **`Full-Stack Sorcerer | ML Alchemist | Coffee-Powered Developer`**
 </div>
 <div align="center">
