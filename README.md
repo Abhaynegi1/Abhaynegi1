@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:090014,50:1a0533,100:090014&height=200&section=header&text=ABHAY%20SINGH%20NEGI&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Full-Stack%20Dev%20%C2%B7%20ML%20Engineer%20%C2%B7%20Gurugram&descSize=14&descAlignY=78&descColor=9d7dfa" width="100%"/>
+
 <div align="center">
 
 #  ABHAY SINGH NEGI
@@ -26,7 +28,6 @@ const abhay = {
     status: "Turning bugs into features since 2020 🐛✨"
 };
 ```
-
 
 ---
 
