@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 #  ABHAY SINGH NEGI
@@ -87,7 +86,3 @@ Thanks for stopping by! ⭐ Star my repos if you find them cool
 ![Profile Views](https://komarev.com/ghpvc/?username=abhaynegi1&color=FF6E96&style=for-the-badge&label=VIEWS)
 
 </div>
-
-```
-
-This is my github read me I dont like hwo it looks so ai generated I love the gif it makes it personalized but there is no pop or modern nature can you make it better
