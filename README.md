@@ -91,27 +91,6 @@ Currently exploring deeper into system design, scalable architectures, and cross
 
 </div>
 
----
-
-## 🚀 Projects
-
-### IWAI — Event Memory Platform
-
-A full-stack event photo-sharing platform for capturing, uploading, and sharing private event memories.
-
-**React Native · Next.js · NestJS · PostgreSQL · Drizzle · Cloudflare R2**
-
-[View Project →](https://github.com/Abhaynegi1/iwai)
-
----
-
-### LockIn — Competitive Focus Timer
-
-A Flutter focus timer built around deep work, accountability, and 1-on-1 focus battles.
-
-**Flutter · Dart · Provider · Local Persistence · Notifications · GitHub Actions**
-
-[View Project →](https://github.com/Abhaynegi1/Lock-In)
 
 ---
 
