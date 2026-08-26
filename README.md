@@ -85,14 +85,6 @@ Currently exploring deeper into system design, scalable architectures, and cross
 
 ---
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
-
-</div>
-
-
----
 
 <div align="center">
 
