@@ -1,88 +1,132 @@
 <div align="center">
 
-#  ABHAY SINGH NEGI
+# Abhay Singh Negi
+
 <img src="https://media1.tenor.com/m/KHASp5mlaWsAAAAd/anime-frieren.gif" width="450"/>
 
-### **`Full-Stack Sorcerer | ML Alchemist | Coffee-Powered Developer`**
+### `Full-Stack Engineer · Building Things That Should Probably Be Simpler`
 
 </div>
+
 <div align="center">
+
 <img src="https://media1.tenor.com/m/aXVFqv8KInAAAAAC/anime-frieren.gif" width="400"/>
+
 </div>
 
-```
-🏔️ Uttarakhand → 💻 Gurugram → 🚀 Building Cool Stuff
+```text
+🏔️ Uttarakhand → 💻 Gurugram → 🚀 Building cool stuff
 ```
 
 ---
 
-## 🎮 WHO AM I?
+## 👋 About Me
 
-```javascript
+```typescript
 const abhay = {
-    role: "Full-Stack Developer + ML Enthusiast",
-    power: "Coffee ☕ + Code 💻",
-    motto: "If it compiles, ship it. If it doesn't, coffee break.",
-    status: "Turning bugs into features since 2020 🐛✨"
+  focus: "Full-Stack Development",
+  stack: ["TypeScript", "React", "Node.js", "PostgreSQL"],
+  currentlyExploring: [
+    "System Design",
+    "Cloud Architecture",
+    "Mobile Development",
+  ],
+  poweredBy: "Coffee ☕",
 };
 ```
 
+I enjoy building products end-to-end — from interfaces and APIs to databases, cloud infrastructure, testing, and deployment.
+
+Currently exploring deeper into system design, scalable architectures, and cross-platform development.
 
 ---
 
-## 🔥 TECH ARSENAL
+## 🛠️ Tech Stack
 
-<div align="center">
+### Languages
 
-**Frontend Magic**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Backend Power**  
+### Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-FF4154?style=for-the-badge&logo=reactrouter&logoColor=white)
+
+### Backend & Data
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
-**AI & ML**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### Cloud & DevOps
 
-**Cloud & Deploy**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-</div>
+### Testing & Tooling
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 <div align="center">
+
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+
 </div>
 
 ---
 
-## 🌐 LET'S CONNECT
+## 🚀 Projects
+
+### IWAI — Event Memory Platform
+
+A full-stack event photo-sharing platform for capturing, uploading, and sharing private event memories.
+
+**React Native · Next.js · NestJS · PostgreSQL · Drizzle · Cloudflare R2**
+
+[View Project →](https://github.com/Abhaynegi1/iwai)
+
+---
+
+### LockIn — Competitive Focus Timer
+
+A Flutter focus timer built around deep work, accountability, and 1-on-1 focus battles.
+
+**Flutter · Dart · Provider · Local Persistence · Notifications · GitHub Actions**
+
+[View Project →](https://github.com/Abhaynegi1/Lock-In)
+
+---
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150"/>
+
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-singh-negi/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/negi.abhay_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaynegi.dev@gmail.com)
 
----
+<br/>
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150"/>
-
-```
-Thanks for stopping by! ⭐ Star my repos if you find them cool
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=abhaynegi1&color=FF6E96&style=for-the-badge&label=VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=abhaynegi1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
